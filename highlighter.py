@@ -1,3 +1,10 @@
+"""
+    A utility for highlighting text in a stream
+    
+    Author:
+        Mattis Stordalen Flister
+"""
+
 import sys
 import argparse
 import fileinput
