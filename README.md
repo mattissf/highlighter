@@ -4,7 +4,7 @@ Highlights words in a stream
 
 ## Installation
 
-Clone the repo and run ```python setup.py install```.
+```pip install https://github.com/mattissf/highlighter/archive/master.zip```
 
 It will install an executable script called ```hl```.
 
