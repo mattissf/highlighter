@@ -1,6 +1,6 @@
 # Highlighter
 
-Highlights words in a stream
+When you only want to highlight words in a stream (and not grep or filter anything), this tool is for you.
 
 ## Installation
 
