@@ -4,9 +4,11 @@ When you only want to highlight words in a stream (and not grep or filter anythi
 
 ## Prerequisites
 
-Made with Pyhton 2.7.5, not sure if it works with Python 3+.
+Made with Python 2.7.5, not sure if it works with Python 3+.
 
 The shell needs to support ANSI escape sequences. All major shells supports it.
+
+Also, you need to have [Pip](http://www.pip-installer.org/en/latest/) to install Highlighter directly.  Pip should be found in almost all Python distributions.  Please refer to your system package manager to install Pip if you haven't.
 
 ## Installation
 
